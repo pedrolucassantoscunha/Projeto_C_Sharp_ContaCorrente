@@ -1,0 +1,15 @@
+D:\Documentos\C#\ProjetoC\bin\Debug\net6.0\ProjetoC.exe
+D:\Documentos\C#\ProjetoC\bin\Debug\net6.0\ProjetoC.deps.json
+D:\Documentos\C#\ProjetoC\bin\Debug\net6.0\ProjetoC.runtimeconfig.json
+D:\Documentos\C#\ProjetoC\bin\Debug\net6.0\ProjetoC.dll
+D:\Documentos\C#\ProjetoC\bin\Debug\net6.0\ProjetoC.pdb
+D:\Documentos\C#\ProjetoC\obj\Debug\net6.0\ProjetoC.csproj.AssemblyReference.cache
+D:\Documentos\C#\ProjetoC\obj\Debug\net6.0\ProjetoC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\C#\ProjetoC\obj\Debug\net6.0\ProjetoC.AssemblyInfoInputs.cache
+D:\Documentos\C#\ProjetoC\obj\Debug\net6.0\ProjetoC.AssemblyInfo.cs
+D:\Documentos\C#\ProjetoC\obj\Debug\net6.0\ProjetoC.csproj.CoreCompileInputs.cache
+D:\Documentos\C#\ProjetoC\obj\Debug\net6.0\ProjetoC.dll
+D:\Documentos\C#\ProjetoC\obj\Debug\net6.0\refint\ProjetoC.dll
+D:\Documentos\C#\ProjetoC\obj\Debug\net6.0\ProjetoC.pdb
+D:\Documentos\C#\ProjetoC\obj\Debug\net6.0\ProjetoC.genruntimeconfig.cache
+D:\Documentos\C#\ProjetoC\obj\Debug\net6.0\ref\ProjetoC.dll
